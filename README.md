@@ -1,4 +1,4 @@
 Delicious
 =========
 
-see https://github.com/zenozeng/delicious/wiki/_pages
+see https://github.com/zenozeng/zju-delicious/wiki/_pages
